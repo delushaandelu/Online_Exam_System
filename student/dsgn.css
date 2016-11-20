@@ -1,0 +1,25 @@
+#log
+{
+    margin-left: 40%;
+    background-color: lightgrey;
+    margin-right: 34.5%;
+    border-radius: 5%;
+    margin-top: 14%;
+    height: 190px;
+}
+
+#tb
+{
+    margin-left: 13%;
+}
+
+body
+{
+    background-image: url("image/abcd.jpg");
+    background-size: cover;
+}
+
+#signup
+{
+    margin-left: 38%;
+}

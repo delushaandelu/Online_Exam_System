@@ -1,0 +1,20 @@
+#adminlog
+{
+    margin-left: 40%;
+    margin-top: 14%;
+    background-color: beige;
+    margin-right: 35%;
+    border-radius: 8%;
+
+}
+body
+{
+    background-image: url("img/back.jpg");
+    background-size: cover;
+}
+
+#frm
+{
+    margin-left: 6%;
+}
+
